@@ -8,6 +8,13 @@
 
 6)git status: Verifiquei que foi detectado a existência de um novo arquivo. 
 
-7) git add comandos_sequencia: 
+7) git add comandos_sequencia: inclui como parte do meu repositório. 
+
+8) git status: verifiquei o novo arquivo
+
+9) git commit -m "Crie um repositório experimental": confirmei a inclusão desse arquivo no repositório local. 
+
+10) 
+
 
 
