@@ -1,0 +1,13 @@
+1) Criei um repositório no gihtub com o nom "exe4_tarefa1"
+
+2)  git clone https://github.com/araujojuliana/exe4_tarefa1 :Clonei o repositório.
+
+3) cd exe4_tarefa1 : Abri o repositório clonado.
+
+4) Criei na pasta local exe4_tarefa1 o meu arquivo "comandos_sequencia"
+
+6)git status: Verifiquei que foi detectado a existência de um novo arquivo. 
+
+7) git add comandos_sequencia: 
+
+
