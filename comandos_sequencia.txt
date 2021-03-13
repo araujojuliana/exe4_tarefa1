@@ -14,7 +14,7 @@
 
 9) git commit -m "Crie um repositório experimental": confirmei a inclusão desse arquivo no repositório local. 
 
-10) 
+10) git push: levei as modificações para o repositório local. 
 
 
 
